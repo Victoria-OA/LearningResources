@@ -6,11 +6,9 @@ Welcome to the **DevOps Learning Resources** repository! This repository provide
 1. [Beginner Level](#-beginner-level)
 2. [Intermediate Level](#-intermediate-level)
 3. [Advanced Level](#-advanced-level)
-4. [Tools & Resources](#-tools--resources)
 5. [Contribute](#-contribute)
 
 ---
-
 ## 🟢 Beginner Level
 
 Start with the fundamentals of DevOps, Linux, Git and Bash Scripting.
@@ -21,7 +19,6 @@ Start with the fundamentals of DevOps, Linux, Git and Bash Scripting.
 - [**Git and Version Control**](https://www.datacamp.com/courses/introduction-to-git) - **datacamp**: Learn Git.
 - [**Bash Scripting**](https://www.datacamp.com/courses/introduction-to-bash-scripting) - **datacamp**: Introduction to Bash Scripting.
 - [**Cloud Platforms**](https://youtu.be/Vnk0p-63mHQ?si=4_L_je98VwR5WEzr) - **YouTube**: Overview of Various Cloud Platforms.
-
 
 ---
 
